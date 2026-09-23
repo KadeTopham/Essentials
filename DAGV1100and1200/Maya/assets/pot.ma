@@ -1,10 +1,6 @@
 //Maya ASCII 2027 scene
 //Name: pot.ma
-<<<<<<< HEAD
-//Last modified: Wed, Sep 16, 2026 03:35:42 PM
-=======
 //Last modified: Wed, Sep 16, 2026 03:35:54 PM
->>>>>>> 5b9591f58953261bcbd5ad07b2a094a8513af654
 //Codeset: 1252
 requires maya "2027";
 requires "stereoCamera" "10.0";
@@ -15,11 +11,7 @@ fileInfo "product" "Maya 2027";
 fileInfo "version" "2027";
 fileInfo "cutIdentifier" "202604221258-70da84b25e";
 fileInfo "osv" "Windows 11 Enterprise v2009 (Build: 26200)";
-<<<<<<< HEAD
-fileInfo "UUID" "7FC18ED6-431D-2872-9138-C0A381F151B8";
-=======
 fileInfo "UUID" "9E571524-4332-F5C8-8296-16A12DBEFC87";
->>>>>>> 5b9591f58953261bcbd5ad07b2a094a8513af654
 fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "14A78849-4A90-19F6-29D0-9C91664C864A";
